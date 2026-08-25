@@ -1,0 +1,6 @@
+{
+  "name": "CivicVision",
+  "description": "AI-Powered Urban Infrastructure & Disaster Response Intelligence platform featuring unified situational awareness, emergency mesh network simulation, and automated civic reporting.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
